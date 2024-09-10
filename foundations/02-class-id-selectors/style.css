@@ -1,0 +1,19 @@
+.class{
+    background-color: #f08080;
+    font-family: 'Verdana', 'DejaVu Sans', 'sans-serif';
+}
+
+.class.cooler{
+    font-size: 24px;
+}
+
+#blue{
+    color: #0000ff;
+    font-size: 32px;
+}
+
+#green{
+    background-color: #90ee90;
+    font-weight: 600;
+    font-size: 24px;
+}
